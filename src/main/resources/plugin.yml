@@ -1,0 +1,6 @@
+name: GlobalGamerule
+version: '1.0'
+main: dev.mja00.globalGamerule.GlobalGamerule
+api-version: '1.21'
+authors: [ mja00 ]
+description: Propagate all gamerule changes to all worlds
